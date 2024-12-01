@@ -33,7 +33,7 @@ Installation
 
     bash
 
-git clone https://github.com/0xGhostMan/malware-analysis-yara
+git clone https://github.com/ravindarmundrathi558/Malware_Analysis_Yara
 cd malware-analysis-tool
 
 Install the required Python libraries:
